@@ -1,3 +1,3 @@
 # hello-world
 
-Hej. Here's some words.
+Hej. That is all.
